@@ -119,6 +119,7 @@ text-transform: uppercase;
   max-height: 30px;
   max-width: 30px;
   z-index: 2;
+  filter: drop-shadow(0 0 0.1rem black);
 }
 
 .cover__phone-number {
